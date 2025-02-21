@@ -62,7 +62,7 @@ python --version
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/DSA.git
+git clone https://github.com/dawidkocma/Data-Structures-Algorithms.git
 cd DSA
 ```
 

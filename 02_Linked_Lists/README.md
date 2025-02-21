@@ -72,8 +72,8 @@ python --version
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/dawidkocma/DSA/02_Linked_Lists.git
-cd LinkedList
+git clone https://github.com/dawidkocma/Data-Structures-Algorithms/02_Linked_Lists.git
+cd Linked_List
 ```
 
 ### Running the Code
